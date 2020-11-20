@@ -17,7 +17,7 @@ metrics.py 存放评价指标，如召回率、准确率、覆盖率和新颖度
 
 2、Chapter2 存放第二章的代码
 
-usercf.py、useriif.py、itemcf.py、itemiuf.py、itemcfNorm.py、lfm.py、personalRank.py  分别存放封装好的协同过滤算法  
+usercf.py、useriif.py、itemcf.py、itemiuf.py、itemcfNorm.py、lfm.py、personalRank.py  分别存放封装好的基于用户行为数据的算法  
 
 main.py  是各算法在 MovieLen 数据集上的实现
 
